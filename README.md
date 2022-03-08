@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋. It's Renyang Guan here. 
+
+- 🌱 I'm a junior student majoring in Computer Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+
+![](https://github-readme-stats.vercel.app/api?username=guanrenyang)
+
+
 
 <!--
 **guanrenyang/guanrenyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
