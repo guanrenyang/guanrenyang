@@ -1,6 +1,6 @@
 ### Hi 👋. It's Renyang Guan here. 
 
-- 🌱 I'm a senior student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), majoring in Computer Science.
+- 🌱 I'm a master degree candidate student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), majoring in Computer Science.
 
 ![](https://github-readme-stats.vercel.app/api?username=guanrenyang)
 
